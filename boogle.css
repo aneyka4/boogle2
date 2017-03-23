@@ -1,0 +1,126 @@
+* {
+  font-family: Arial;
+}
+
+#zgoraj {
+  width: 100%;
+  float: left;
+  height: 200px;
+  margin-top: 10px;
+  color: grey;
+}
+
+button {
+  border: none;
+  background-color: white;
+  display: inline;
+  float: right;
+  font-size: 12px;
+  padding: 5px 10px;
+}
+
+#tekst {
+  width: 100%;
+  float: none;
+  text-align: center;
+  position: relative;
+  top:50px;
+  font-size: 12px;
+}
+#logo {
+  width: 100%;
+  float: left;
+}
+
+img {
+  margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#search {
+  width: 100%;
+  float: left;
+  position: relative;
+  top: 20px;
+}
+
+#okno {
+  height: 35px;
+  width: 600px;
+  -webkit-box-shadow:0px 1px 1px grey;
+ -moz-box-shadow:0px 1px 1px grey;
+ box-shadow:0px 1px 1px grey;
+}
+
+.bumb {
+  position: relative;
+  top: 40px;
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.gumba {
+  margin: 10px;
+  border-color: none;
+  background-color: #fafafa;
+  color: grey;
+  font-weight: bold;
+  height: 40px;
+  float: none;
+  display: inline;
+}
+
+
+#spodaj {
+  float: left;
+  width: 100%;
+  background-color: #F5F5F5;
+  position: fixed;
+   right: 0;
+   bottom: 0;
+   font-size: 12px;
+height: 35px;
+}
+
+#levo {
+  float: left;
+}
+
+#desno {
+  float: right;
+}
+
+.bla {
+  float: none;
+  display: inline-block;
+  padding-top: 10px;
+  padding-left: 6px;
+  padding-right: 6px;
+  font-size: 14px;
+}
+
+input {
+  margin-left: auto;
+	margin-right: auto; 
+	display: block;
+  width: 50%;
+}
+
+#sign {
+  background-color: #4169E1;
+  color: white;
+  padding: 7px 17px;
+}
+
+p {
+  display: inline;
+}
+
+.kvadratki {
+height: 20px;
+width: 20px;
+}
